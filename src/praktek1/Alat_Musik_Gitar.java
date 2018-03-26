@@ -10,5 +10,19 @@ package praktek1;
  * @author udin'
  */
 public class Alat_Musik_Gitar {
+    String Panjang;
+    String Warna;
+    String Bentuk;
+    String Harga;
+    String Bunyi;
+    
+    void Cara_Memakai(){
+        System.out.println("Panjang :"+Panjang);
+        System.out.println("Warna :"+Warna);
+        System.out.println("Bentuk :"+Bentuk);
+        System.out.println("Harga :"+Harga);
+        System.out.println("Bunyi :"+Bunyi);
+        
+    }
     
 }
