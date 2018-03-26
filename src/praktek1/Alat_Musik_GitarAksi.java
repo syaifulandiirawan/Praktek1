@@ -32,6 +32,11 @@ public class Alat_Musik_GitarAksi {
        Bass.Bentuk="Body Besar";
        Bass.Harga="Rp1.000.000";
        Bass.Bunyi="Nada Rendah";
+       
+       
+       Akustik.Cara_Memakai();
+       Elekstrik.Cara_Memakai();
+       Bass.Cara_Memakai();
     }
     
 }
